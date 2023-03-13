@@ -1,0 +1,116 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Tobias\Desktop\Adressbuch\.
+Java min ver:	1.010.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Ignore:		1.008.000_333
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+Error msg:	This application requires a Java Runtime Environment 10
+Open URL:	http://java.com/download
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Tobias\Desktop\Adressbuch\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Runtime used:	1.008.000_333 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Tobias\Desktop\Adressbuch\.
+Java min ver:	1.008.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Register
+Working dir:	C:\Users\Tobias\Desktop\Adressbuch\.
+Java min ver:	1.000.001
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe --l4j-debug
+WOW64:		yes
+Create mutex:	Register
+Working dir:	C:\Users\Tobias\Desktop\Adressbuch\.
+Java min ver:	1.008.000
+Java max ver:	
+Bundled JRE(s):	jre1.8.0_151
+Check launcher:	C:\Users\Tobias\Desktop\Adressbuch\jre1.8.0_151\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Tobias\Desktop\Adressbuch\AdressRegister.exe"
+Args length:	60/32768 chars
+Exit code:	0
